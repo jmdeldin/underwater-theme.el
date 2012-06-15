@@ -1,4 +1,4 @@
-;;; underwater-theme.el --- Port of underwater Vim theme
+;;; underwater-theme.el --- A gentle, deep blue color theme
 
 ;; Copyright (C) 2012 Jon-Michael Deldin
 
