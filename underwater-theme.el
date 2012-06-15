@@ -1,6 +1,6 @@
-;;; underwater-theme.el -- Port of underwater Vim theme
+;;; underwater-theme.el --- Port of underwater Vim theme
 
-;; Copyright (C) 2012  Jon-Michael Deldin
+;; Copyright (C) 2012 Jon-Michael Deldin
 
 ;; Author: Jon-Michael Deldin <dev@jmdeldin.com>
 ;; Keywords: faces
@@ -9,26 +9,26 @@
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
-;; the Free Software Foundation, either version 3 of the License, or
-;; (at your option) any later version.
+;; the Free Software Foundation, either version 3 of the License, or (at
+;; your option) any later version.
 
-;; This program is distributed in the hope that it will be useful,
-;; but WITHOUT ANY WARRANTY; without even the implied warranty of
-;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-;; GNU General Public License for more details.
+;; This program is distributed in the hope that it will be useful, but
+;; WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+;; General Public License for more details.
 
 ;; You should have received a copy of the GNU General Public License
-;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
+;; along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 ;;; Commentary:
 
-;; This is an Emacs 24 port of underwater-mod.vim by Mario Gutierrez from URL
-;; `http://www.vim.org/scripts/script.php?script_id=3132'.
+;; This is an Emacs 24 port of underwater-mod.vim by Mario Gutierrez
+;; from URL `http://www.vim.org/scripts/script.php?script_id=3132'.
 ;;
-;; To use this theme, download it to ~/.emacs.d/themes. In your `.emacs' or
-;; `init.el', add this line:
+;; To use this theme, download it to ~/.emacs.d/themes. In your `.emacs'
+;; or `init.el', add this line:
 ;;
-;;    (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
+;;   (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
 ;;
 ;; Once you have reloaded your configuration (`eval-buffer'), do `M-x
 ;; load-theme' and select "underwater".
