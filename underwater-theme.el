@@ -69,7 +69,7 @@
       (*visual-selection*   "#262D51"))
 
   (custom-theme-set-faces
-   'underwater-theme
+   'underwater
 
    `(bold ((t (:bold t))))
    `(button ((t (:foreground, *keywords* :underline t))))
