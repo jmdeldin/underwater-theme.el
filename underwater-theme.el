@@ -117,7 +117,7 @@
    ;; search
    `(isearch ((t (:background, *search-bg* :foreground, *search-fg*))))
    `(isearch-fail ((t (:background, *red*))))
-   `(lazy-higlight ((t (:background, *operators*))))
+   `(lazy-highlight ((t (:background, *operators* :foreground, *search-fg*))))
 
    ;; erb/rhtml-mode
    `(erb-out-delim-face ((t (:foreground, *regexp*))))
