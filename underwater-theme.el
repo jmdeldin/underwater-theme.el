@@ -42,7 +42,7 @@
       (*comments*           "#4E6F91")
       (*constant*           "#FFC287")
       (*current-line*       "#18374f")
-      (*cursor-block*       "#FFFFFFF")
+      (*cursor-block*       "#FFFFFF")
       (*cursor-underscore*  "#FFFAAA")
       (*keywords*           "#8AC6F2")
       (*light-purple*       "#FFCCFF")
