@@ -126,6 +126,11 @@
    `(magit-diff-add ((t (:foreground, *string*))))
    `(magit-diff-del ((t (:foreground, *red*))))
 
+   ;; enh-ruby-mode
+   `(enh-ruby-op-face ((t (:foreground, *operators*))))
+   `(enh-ruby-regexp-delimiter-face ((t (:foreground, *regexp*))))
+   `(enh-ruby-string-delimiter-face ((t (:foreground, *normal*))))
+
    ;; org-mode
    `(org-date ((t (:foreground, *light-purple* :underline t))))
    `(org-level-1 ((t (:foreground, *string*))))
