@@ -8,7 +8,7 @@ This is a pleasing, light-on-dark, blue theme for Emacs 24.1.
 
 ## Installation
 
-The easiest way is to install it from [MELPA](http://melpa.milkbox.net/) with 
+The easiest way is to install it from [MELPA](https://melpa.org/) with 
 `M-x package-install RET underwater-theme`. Otherwise, see the commentary in
 `underwater-theme.el` for manual installation instructions.
 
